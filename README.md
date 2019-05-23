@@ -1,1 +1,1 @@
-# salat_assistant
+Gebeds-Assistent
