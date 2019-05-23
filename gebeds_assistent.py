@@ -4,13 +4,13 @@ import requests
 from homeassistant.helpers.event import track_point_in_time
 from homeassistant.util import dt as dt_util
 
-DOMAIN = 'salat_assistant'
+DOMAIN = 'gebeds_assistent'
 
 #   config
-street = "ravelstraat"  # fill in your streetname
-housenumber = "50"  # fill in your housenumber
-city = "venray"  # fill in your city
-country = "netherlands"  # fill in your country
+street = "your street"  # fill in your streetname
+housenumber = "your housenumer"  # fill in your housenumber
+city = "your city"  # fill in your city
+country = "your country"  # fill in your country
 angle = "15.0,null,15.0"  # fill in angle
 
 #   request 
